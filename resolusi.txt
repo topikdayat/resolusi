@@ -1,6 +1,2 @@
-resolusi 
-konsisten buat konten
-buat forum diskusi
-buat aplikasinya
-praktekkan
-coba hapus nomor 3
+coba buat branch - rencana konten
+tes buat saja
